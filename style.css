@@ -1,10 +1,14 @@
+.form-div {
+  max-width: 15vw;
+  margin: 0 auto;
+}
+
+label {
+  font-weight: bolder;
+}
 form * {
   display: block;
   width: 80%;
   margin: 1em;
 }
 
-#checkbox {
-  display:inline;
-
-}
